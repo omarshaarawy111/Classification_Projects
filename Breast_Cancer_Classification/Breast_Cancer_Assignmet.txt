@@ -1,0 +1,40 @@
+## TASK1
+
+your task is to apply classification on one of the famous data set called breast_cancer 
+at the first you will apply any classification algorithm and then evalute the model 
+then you need to apply PCA with 10 components and apply the same algorithm 
+then apply the PCA with 2 Components and pply the same algorithm 
+and compare between the evalution of three models
+
+1- classification without PCA
+
+2- classification with PCA 10 components
+
+3- classification with PCA 2 components
+
+
+## TASK2
+
+your task is to apply classification on one of the famous data set called cifar10 
+at the first you will apply any classification algorithm and 
+then evalute the model then you need to apply PCA with 10 components 
+and apply the same algorithm then apply the PCA with 2 Components and pply the same algorithm 
+and compare between the evalution of three models
+
+1- classification without PCA
+
+2- classification with PCA 10 components
+
+3- classification with PCA 2 components
+
+
+you can explore data from here https://www.cs.toronto.edu/~kriz/cifar.html
+
+To load the data run the following lines of code:
+
+!pip install keras
+from keras.datasets import cifar10
+(x_train, y_train), (x_test, y_test) = cifar10.load_data()
+
+---------------------
+Then u can train the models and evaluate

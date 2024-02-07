@@ -1,0 +1,2 @@
+age,avg_glucose_level,bmi,gender_Female,gender_Male,hypertension_NO,hypertension_YES,heart_disease_NO,heart_disease_YES,ever_married_No,ever_married_Yes,work_type_Govt_job,work_type_Never_worked,work_type_Private,work_type_Self-employed,residence_type_Rural,residence_type_Urban,smoking_status_Unknown,smoking_status_formerly smoked,smoking_status_never smoked,smoking_status_smokes
+26,86,21.7,0,1,1,0,1,0,1,0,0,0,0,1,0,1,0,0,1,0
